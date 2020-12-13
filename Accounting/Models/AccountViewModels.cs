@@ -3,6 +3,8 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Accounting.Models
 {
+
+
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
